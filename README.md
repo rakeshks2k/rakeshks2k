@@ -39,9 +39,7 @@ Working on a digital signature platform that enables businesses to manage secure
 <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20K%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rakesh27242@gmail.com">
 <img src="https://img.shields.io/badge/Email-rakesh27242%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
