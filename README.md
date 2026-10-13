@@ -4,9 +4,6 @@
 
 ### Associate Product Manager | B2B SaaS | FinTech | GenAI
 
-<img src="https://img.shields.io/badge/📍%20Bengaluru,%20India-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/github/repo-size/rakeshks2k/portfolio?style=for-the-badge&color=2ea44f&label=Portfolio%20Size"/>
-
 <br/>
 
 <a href="https://rakeshks2k.github.io/portfolio/">
@@ -42,7 +39,7 @@ I'm particularly interested in AI-powered products, SaaS platforms, payments, an
 <div align="center">
 
 <a href="https://rakeshks2k.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20View%20Portfolio-000000?style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/rakeshks2k">
 <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20K%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
