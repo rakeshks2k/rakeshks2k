@@ -4,8 +4,6 @@
 
 ### Associate Product Manager | B2B SaaS | FinTech | GenAI
 
-<br/>
-
 <a href="https://rakeshks2k.github.io/portfolio/">
 <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-000000?style=for-the-badge"/>
 </a>
