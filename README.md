@@ -1,47 +1,54 @@
+<div align="center">
+
 # Hi, I'm Rakesh K S 👋
 
-Associate Product Manager • B2B SaaS • Product Strategy  
+### Associate Product Manager | B2B SaaS | FinTech | GenAI
+
+<img src="https://img.shields.io/badge/📍%20Bengaluru,%20India-1f2937?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/rakeshks2k/portfolio?style=for-the-badge&color=2ea44f&label=Portfolio%20Size"/>
+
+<br/>
 
 <a href="https://rakeshks2k.github.io/portfolio/">
 <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-000000?style=for-the-badge"/>
 </a>
 
+</div>
 
-## About
+---
 
-Associate Product Manager based in **Bengaluru, India**, currently working on a **B2B digital signature platform**.
+## 👤 About Me
 
-I enjoy breaking down complex problems, understanding user workflows, and building reliable products that improve business efficiency.
+I'm a product manager interested in understanding problems, improving user experiences, and building products that solve real business needs.
 
+I enjoy exploring how people use products, identifying friction in workflows, and working with design and engineering teams to turn ideas into practical solutions.
 
-## Focus Areas
+I'm particularly interested in AI-powered products, SaaS platforms, payments, and the technology behind seamless digital experiences. I also enjoy exploring product strategy, experimenting with new tools, and understanding how data can inform better product decisions.
 
-• Product Strategy  
-• Product Discovery  
-• Roadmapping  
-• Data-Driven Decisions  
-• Cross-Functional Collaboration  
-• SaaS Product Development
+---
 
+## 🎯 Interests
 
-## Experience
+- 🧭 Product discovery and strategy
+- 🤖 AI and emerging technologies
+- ☁️ B2B SaaS and FinTech
+- 🔄 User experience and workflow automation
+- 📊 Product analytics and experimentation
 
-**Associate Product Manager – Melento**  
-2023 – Present  
+---
 
-Working on a digital signature platform that enables businesses to manage secure document workflows and agreements.
+## 🤝 Connect
 
+<div align="center">
 
-## Contact
-
-<p>
-<a href="https://www.linkedin.com/in/rakeshks2k">
-<img src="https://img.shields.io/badge/LinkedIn-Rakesh%20K%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://rakeshks2k.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
-
-<a href="mailto:rakesh27242@gmail.com" style="margin-left:40px;">
+<a href="https://www.linkedin.com/in/rakeshks2k">
+<img src="https://img.shields.io/badge/LinkedIn-Rakesh%20K%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rakesh27242@gmail.com">
 <img src="https://img.shields.io/badge/Email-rakesh27242%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
-📍 Bengaluru, Karnataka, India
+</div>
