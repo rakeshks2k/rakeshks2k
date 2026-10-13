@@ -24,11 +24,11 @@ I'm particularly interested in AI-powered products, SaaS platforms, payments, an
 
 ## 🎯 Interests
 
-- 🧭 Product discovery and strategy
-- 🤖 AI and emerging technologies
-- ☁️ B2B SaaS and FinTech
-- 🔄 User experience and workflow automation
-- 📊 Product analytics and experimentation
+-  Product discovery and strategy
+-  AI and emerging technologies
+-  B2B SaaS and FinTech
+-  User experience and workflow automation
+-  Product analytics and experimentation
 
 ---
 
